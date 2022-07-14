@@ -14,3 +14,5 @@ Branch
 - git log ghi ra ghi chú commit
 - git branch
 - git checkout -b{Branch name} tạo ra một branch mới
+- git merge {branch name} tổng hợp lại các branch với nhau 
+- git branch -d {branch name} xóa branch
