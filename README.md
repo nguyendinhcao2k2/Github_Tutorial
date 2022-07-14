@@ -20,3 +20,5 @@ ReMote
 - git merge {branch name} tổng hợp lại các branch với nhau 
 - git branch -d {branch name} xóa branch
 - git push day du lieu tu local repo len sever repo
+- git remote add origin {path repo}  tao 1 alias 
+- git clone tai project tren github
