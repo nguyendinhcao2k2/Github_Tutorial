@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Confict
+Local
+ReMote
 
 # Commands
 
@@ -17,3 +19,4 @@ Confict
 - git checkout -b{Branch name} tạo ra một branch mới
 - git merge {branch name} tổng hợp lại các branch với nhau 
 - git branch -d {branch name} xóa branch
+- git push day du lieu tu local repo len sever repo
