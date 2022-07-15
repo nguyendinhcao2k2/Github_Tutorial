@@ -6,7 +6,7 @@ Confict
 Local
 ReMote
 
-# Commands
+# Commandsgit 
 
 - git init Bến dự án thành một kho git
 - git status cho thấy trạng thái dự án 
